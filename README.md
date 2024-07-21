@@ -5,10 +5,8 @@ Su funcionamiente consiste en que el usuario ingresa una lista de numeros o una 
 
 ![Menu Inicial](https://github.com/p3p3p3k4z/Proyecto-Ordenamientos/blob/fca4f2429c829a571d5cfec277bc93e6c74e1e9e/ventana_inicial.png)
 
-
 Donde se puede seleccionar distintos tipos de ordenamientos
 ![Menu Seleccion](https://github.com/p3p3p3k4z/Proyecto-Ordenamientos/blob/main/ventana_menu.png)
-
 
 Al igual de poder comparar de distintas formas de ordenamiento. Con esto se verifica que ordenamiento es mas eficiente
 ![Menu Funcion](https://github.com/p3p3p3k4z/Proyecto-Ordenamientos/blob/main/ventana_grafica.png)
