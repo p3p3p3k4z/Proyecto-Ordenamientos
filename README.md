@@ -16,6 +16,9 @@ Si se selecciona un ordenamiento en especifico, se visualizara la lista ordenada
 de visualizar el ordenamiento con el uso de mathplot y otra opcion es visualizar la eficiencia de cProfile.
 ![Menu Final](https://github.com/p3p3p3k4z/Proyecto-Ordenamientos/blob/main/ventana_final.png)
 
+#USO
+Basta con correr el archivo pfinal1.py para inicialr con el programa
+
 #NOTA
 Debido a que el proyecto en su mayoria usa pygame, cuando se grafica o el uso de cProfile las ventanas generadas quedan trabadas. 
 Por lo cual basta con cerrar la ventana con alt+f4 o usando icono de cerrar, para poder continuar usando el programa principal con normalidad.
