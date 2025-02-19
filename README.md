@@ -6,7 +6,7 @@ Donde se puede seleccionar distintos tipos de ordenamientos
 ![Menu Seleccion](preview/ventana_menu.png)
 
 Al igual de poder comparar de distintas formas de ordenamiento. Con esto se verifica que ordenamiento es mas eficiente
-![Menu Funcion](preview/entana_grafica.png)
+![Menu Funcion](preview/ventana_grafica.png)
 
 Si se selecciona un ordenamiento en especifico, se visualizara la lista ordenada. Otras opciones que tiene; Es la posibilidad
 de visualizar el ordenamiento en tiempo real con el uso de mathplot y la eficiencia del algoritmo con cProfile.
